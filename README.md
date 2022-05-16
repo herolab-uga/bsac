@@ -66,16 +66,16 @@ pyhton3 main_bsac.py
 3. Humanoid-V2:
 - 3 factors BSAC:
 ```
-cd ~/humanoid-v2_3bsac
+cd ~/humanoid-v2/humanoid-v2_3bsac
 pyhton3 main_bsac.py
 ```
 - 5 factors BSAC:
 ```
-cd ~/humanoid-v2_5bsac
+cd ~/humanoid-v2/humanoid-v2_5bsac
 pyhton3 main_bsac.py
 ```
 - 9 factors BSAC:
 ```
-cd ~/humanoid-v2_9bsac
+cd ~/humanoid-v2/humanoid-v2_9bsac
 pyhton3 main_bsac.py
 ```
