@@ -6,7 +6,7 @@ This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plott
 
 ## Getting Started
 
-  1. Install [OpenAI Gym](https://gym.openai.com/docs/):
+  1. Install [OpenAI Gym](https://www.gymlibrary.ml/):
   ```
   pip install gym
   ```
