@@ -2,7 +2,7 @@
 
 ## Experiments Setup
 
-This implementation requires Anaconda / OpenAI Gym / Mujoco / PyTorch / rl-plotter.
+This implementation requires [Anaconda](https://www.anaconda.com/) / OpenAI Gym / Mujoco / [PyTorch](https://pytorch.org/) / rl-plotter.
 
 ## Getting Started
 
@@ -79,3 +79,5 @@ pyhton3 main_bsac.py
 cd ~/humanoid-v2/humanoid-v2_9bsac
 pyhton3 main_bsac.py
 ```
+
+> Note: Before running the code, please set the specific directory in files `main_bsac.py` and `networks.py` for the data updating.
